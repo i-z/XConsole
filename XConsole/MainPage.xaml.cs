@@ -19,7 +19,9 @@ namespace XConsole
             InitializeComponent();
 
             // Sample code to localize the ApplicationBar
-            //BuildLocalizedApplicationBar();
+            //BuildLocalizedApplicationBar()
+
+			//CPPCLR.VirtualMemory^ vm = ref new CPPCLR.VirtualMemory(
         }
 
         // Sample code for building a localized ApplicationBar
